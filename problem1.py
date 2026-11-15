@@ -20,3 +20,6 @@ def display_reverse(names):
     print("\nLast Names in Reverse Order:")
     for i in range(len(names) - 1, -1, -1):
         print(names[i])
+
+display_names(last_names)
+display_reverse(last_names)
