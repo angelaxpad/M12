@@ -22,3 +22,6 @@ def display_reverse(names, grades):
     print("\nLast Names and Scores in Reverse Order:")
     for i in range(len(names) - 1, -1, -1):
         print(names[i], "-", grades[i])
+
+display_names(last_names, scores)
+display_reverse(last_names, scores)
