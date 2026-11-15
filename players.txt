@@ -1,0 +1,10 @@
+Alejandro Garcia,0.311
+Carlos Rodriguez,0.288
+Miguel Martinez,0.310
+Jose Hernandez,0.289
+Luis Lopez,0.282
+Fernando Gonzalez,0.288
+Diego Ramirez,0.337
+Javier Perez,0.279
+Daniel Sanchez,0.332
+Eduardo Torres,0.323
