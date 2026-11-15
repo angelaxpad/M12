@@ -30,3 +30,6 @@ def find_lowest(names, grades):
 
     print("\nLowest Score:")
     print(names[low_index], "-", low_var)
+
+find_highest(last_names, scores)
+find_lowest(last_names, scores)
